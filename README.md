@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao meu perfil, abraços!! 😁
+## Bem-vindo(a) ao meu perfil!! 😁
 
 # 👨‍💻 Sobre mim:
-Prazer, meu nome é Enzo.<br>Sou um desenvolvedor júnior em busca de conhecimento, experiência e desenvolvimento.<br>Me destaco no trabalho por: <br>• Ter uma boa comunicação;<br>• Saber trabalhar em equipe;<br>• Ter um pensamento analítico;<br>• Ter uma boa compreensão;<br>• Ter habilidades de aprendizagem;<br>• Resolução de problemas;<br><br>
+Sou um desenvolvedor júnior em busca de conhecimento, experiência e desenvolvimento.<br>Me destaco no trabalho por: <br>• Ter uma boa comunicação;<br>• Saber trabalhar em equipe;<br>• Ter um pensamento analítico;<br>• Ter uma boa compreensão;<br>• Ter habilidades de aprendizagem;<br>• Resolução de problemas;<br><br>
 
 
 ## 🌐 Socials:
@@ -19,7 +19,6 @@ Prazer, meu nome é Enzo.<br>Sou um desenvolvedor júnior em busca de conhecimen
 ---
 [![](https://visitcount.itsvg.in/api?id=EnzoCpe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div>
   
   ![Snake animation](https://github.com/enzocpe/enzocpe/blob/output/github-contribution-grid-snake.svg)
