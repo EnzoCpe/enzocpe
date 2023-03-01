@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil!! 😁
+## Bem-vindo(a)!!
 
 # 👨‍💻 Sobre mim:
 Sou um desenvolvedor júnior em busca de conhecimento, experiência e desenvolvimento.<br>Me destaco no trabalho por: <br>• Ter uma boa comunicação;<br>• Saber trabalhar em equipe;<br>• Ter um pensamento analítico;<br>• Ter uma boa compreensão;<br>• Ter habilidades de aprendizagem;<br>• Resolução de problemas;<br><br>
