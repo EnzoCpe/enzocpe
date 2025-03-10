@@ -1,7 +1,10 @@
 ## Bem-vindo(a)!!
 
 # 👨‍💻 Sobre mim:
-Sou um desenvolvedor júnior em busca de conhecimento, experiência e desenvolvimento.<br>Me destaco no trabalho por: <br>• Ter uma boa comunicação;<br>• Saber trabalhar em equipe;<br>• Ter um pensamento analítico;<br>• Ter uma boa compreensão;<br>• Ter habilidades de aprendizagem;<br>• Resolução de problemas;<br><br>
+Ultimamente, venho ampliando minha atuação na área de dados e analytics, explorando como a inteligência de dados pode aprimorar a tomada de decisões. Atualmente, estou cursando Data Science na FIAP, aprofundando conhecimentos em modelagem de dados, estatística aplicada e inteligência artificial.
+
+Sou um profissional com experiência sólida em gerenciamento de projetos, atuando na liderança de iniciativas estratégicas que impulsionam eficiência e excelência operacional. Atualmente, sou responsável pela estruturação e otimização do Escritório de Projetos (PMO), garantindo governança eficaz e entregas alinhadas aos objetivos do negócio.
+;<br><br>
 
 
 ## 🌐 Socials:
